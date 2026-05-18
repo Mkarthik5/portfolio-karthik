@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my experience, projects, education, and tech stack as a Full Stack Developer with 3+ years of experience.
 
-🔗 **Live:** [karthikmaramreddy.vercel.app](https://karthikmaramreddy.vercel.app)
+🔗 **Live:** [BalaKarthikReddyMaramreddy-portfolio.vercel.app](https://BalaKarthikReddyMaramreddy-portfolio.vercel.app)
 
 ---
 
