@@ -1,0 +1,139 @@
+.projects-section {
+  width: var(--cWidth);
+  margin: auto;
+  padding: 80px 0px;
+  max-width: var(--cMaxWidth);
+}
+
+.projects-container h2 {
+  font-size: 70px;
+  font-weight: 400;
+  margin-bottom: 60px;
+  line-height: 1;
+}
+
+.projects-container h2 span {
+  color: var(--accentColor);
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2px;
+  border: 1px solid #1e1e1e;
+}
+
+.project-card {
+  padding: 48px;
+  border: 1px solid #1e1e1e;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  transition: background 0.3s ease;
+  cursor: pointer;
+}
+
+.project-card:hover {
+  background: rgba(170, 66, 255, 0.04);
+}
+
+.project-card:hover .project-arrow {
+  transform: translate(4px, -4px);
+  color: var(--accentColor);
+}
+
+.project-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.project-number {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--accentColor);
+  letter-spacing: 3px;
+}
+
+.project-arrow {
+  font-size: 22px;
+  color: #555;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.project-card h3 {
+  font-size: 28px;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: 0.5px;
+  line-height: 1.1;
+}
+
+.project-tagline {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--accentColor);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.project-desc {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.7;
+  color: #aaa;
+  margin: 0;
+  flex: 1;
+}
+
+.project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.project-tag {
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  padding: 4px 12px;
+  border: 1px solid #2a2a2a;
+  border-radius: 50px;
+  color: #888;
+  text-transform: uppercase;
+  transition: border-color 0.3s, color 0.3s;
+}
+
+.project-card:hover .project-tag {
+  border-color: #aa42ff44;
+  color: #ccc;
+}
+
+@media only screen and (max-width: 900px) {
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .projects-container h2 {
+    font-size: 48px;
+  }
+
+  .project-card {
+    padding: 32px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .projects-container h2 {
+    font-size: 38px;
+  }
+
+  .project-card h3 {
+    font-size: 22px;
+  }
+}
