@@ -42,10 +42,12 @@ const Career = () => {
               <h3>2020 – 2022</h3>
             </div>
             <p>
-              Contributed to AJIO's large-scale e-commerce platform, building Java & Spring Boot backend services
-              and RESTful APIs powering product discovery, cart, checkout, and order management. Designed and
-              optimized PostgreSQL schemas and MongoDB data models, and developed React + TypeScript frontend
-              components across browsing, cart, and checkout experiences.
+              Contributed to MedPlusMart, India's largest e-pharmacy serving 3,50,000+ daily customers, building
+              backend microservices in Java, Spring Boot, and C# ASP.NET Core powering prescription management,
+              order processing, diagnostics booking, and rewards redemption. Built HL7/FHIR-compliant health
+              record APIs, implemented HIPAA-aligned security with role-based access control and field-level
+              encryption, and deployed microservices on Azure App Services with Azure DevOps CI/CD pipelines
+              across 300+ cities in India.
             </p>
           </div>
         </div>

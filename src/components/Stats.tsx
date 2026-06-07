@@ -3,7 +3,7 @@ import "./styles/Stats.css";
 
 const stats = [
   { value: 3, suffix: "+", label: "Years Experience" },
-  { value: 85, suffix: "K+", label: "Users Served" },
+  { value: 350, suffix: "K+", label: "Users Served" },
   { value: 30, suffix: "%", label: "Effort Reduced" },
   { value: 35, suffix: "%", label: "Faster Resolution" },
 ];

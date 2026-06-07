@@ -31,7 +31,7 @@ const Landing = ({ children }: PropsWithChildren) => {
           <div className="landing-intro">
             <div className="open-to-work">
               <span className="otw-dot"></span>
-              Open to Work
+              Open to Work &amp; Relocation
             </div>
             <div className="greeting-wrapper">
               <h2
