@@ -3,11 +3,11 @@ import "./styles/TechStack.css";
 const groupedCategories = [
   {
     title: "Frontend",
-    skills: ["React", "TypeScript", "JavaScript", "Angular", "Next.js", "Redux", "Tailwind CSS", "Bootstrap", "Vue.js", "jQuery", "D3.js", "HTML5 / CSS3"],
+    skills: ["React", "TypeScript", "JavaScript", "Angular", "Next.js", "Redux", "Tailwind CSS", "Bootstrap", "Vue.js", "jQuery", "D3.js", "Ajax", "HTML5 / CSS3"],
   },
   {
     title: "Backend & APIs",
-    skills: ["Java", "Spring Boot", "Spring MVC", "C# / ASP.NET Core", "Entity Framework Core", "Node.js", "Express.js", "PHP / Laravel", "REST", "SOAP", "GraphQL", "Hibernate", "Flask", "Django"],
+    skills: ["Java", "Spring Boot", "Spring MVC", "C# / ASP.NET Core", "Entity Framework Core", "Node.js", "Express.js", "PHP / Laravel", "REST", "SOAP", "GraphQL", "OAuth 2.0", "JWT", "Hibernate", "Flask", "Django"],
   },
   {
     title: "Databases",
@@ -23,12 +23,12 @@ const flipCategories = [
   {
     title: "Languages",
     icon: "</>",
-    skills: ["Java", "C#", "Python", "PHP", "JavaScript", "TypeScript", "SQL", "Bash", "HTML5", "CSS3"],
+    skills: ["Java", "C#", "Python", "PHP", "JavaScript", "TypeScript", "SQL", "Bash", "HTML5", "CSS3", "JSON", "XML"],
   },
   {
     title: "Tools & Platforms",
     icon: "⚙",
-    skills: ["Git / GitHub", "Postman", "Figma", "Firebase", "Jira", "ClickUp", "ServiceNow", "IntelliJ IDEA", "VS Code", "Maven", "DBeaver"],
+    skills: ["Git / GitHub", "Bitbucket", "Postman", "Figma", "Firebase", "Jira", "ClickUp", "ServiceNow", "FreshService", "IntelliJ IDEA", "VS Code", "Maven", "DBeaver", "i18n", "Laragon", "WinSCP", "Putty"],
   },
   {
     title: "Testing & QA",

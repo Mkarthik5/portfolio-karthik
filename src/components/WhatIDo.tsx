@@ -91,8 +91,9 @@ const WhatIDo = () => {
               <h4>Modern UI Development</h4>
               <p>
                 Building responsive, performant web applications using React and TypeScript,
-                applying lazy loading, code splitting, and component reusability to deliver
-                seamless user experiences at scale.
+                applying lazy loading, code splitting, component reusability, cross-browser
+                compatibility, and i18n multi-language support to deliver seamless user
+                experiences at scale.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -100,12 +101,15 @@ const WhatIDo = () => {
                 <div className="what-tags">TypeScript</div>
                 <div className="what-tags">JavaScript</div>
                 <div className="what-tags">Next.js</div>
+                <div className="what-tags">Angular</div>
+                <div className="what-tags">Vue.js</div>
                 <div className="what-tags">Redux</div>
                 <div className="what-tags">Tailwind CSS</div>
                 <div className="what-tags">Bootstrap</div>
+                <div className="what-tags">D3.js</div>
+                <div className="what-tags">jQuery</div>
                 <div className="what-tags">HTML5 / CSS3</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Vue.js</div>
+                <div className="what-tags">Ajax</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -132,21 +136,26 @@ const WhatIDo = () => {
               <h3>BACKEND & APIs</h3>
               <h4>Scalable Services & Integrations</h4>
               <p>
-                Designing and maintaining RESTful APIs and scalable backend services using
-                Java, PHP, and Node.js, with hands-on experience in cloud deployments,
-                CI/CD pipelines, and database optimization.
+                Designing and maintaining REST, SOAP, and GraphQL APIs and scalable microservices
+                using Java, Spring Boot, C# ASP.NET Core, PHP, and Node.js, with hands-on
+                experience in cloud deployments, HIPAA security, OAuth 2.0, JWT, and
+                event-driven architecture.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Java / Spring Boot</div>
+                <div className="what-tags">C# / ASP.NET Core</div>
                 <div className="what-tags">PHP / Laravel</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MySQL</div>
+                <div className="what-tags">Node.js / Express.js</div>
+                <div className="what-tags">REST / SOAP / GraphQL</div>
+                <div className="what-tags">OAuth 2.0 / JWT</div>
                 <div className="what-tags">PostgreSQL</div>
+                <div className="what-tags">MySQL</div>
                 <div className="what-tags">MongoDB</div>
-                <div className="what-tags">AWS (EC2, S3, RDS)</div>
-                <div className="what-tags">Docker</div>
+                <div className="what-tags">SQL Server</div>
+                <div className="what-tags">AWS</div>
+                <div className="what-tags">Azure</div>
+                <div className="what-tags">Docker / Kubernetes</div>
                 <div className="what-tags">CI/CD</div>
               </div>
               <div className="what-arrow"></div>
