@@ -3,7 +3,7 @@ import "./styles/TechStack.css";
 const groupedCategories = [
   {
     title: "Frontend",
-    skills: ["React", "TypeScript", "JavaScript", "Angular", "Next.js", "Redux", "Tailwind CSS", "Bootstrap", "Vue.js", "jQuery", "D3.js", "Ajax", "HTML5 / CSS3"],
+    skills: ["React", "TypeScript", "JavaScript", "Angular", "Next.js", "Redux", "Tailwind CSS", "Bootstrap", "Vue.js", "jQuery", "D3.js", "Ajax", "i18n", "HTML5 / CSS3"],
   },
   {
     title: "Backend & APIs",
@@ -28,7 +28,7 @@ const flipCategories = [
   {
     title: "Tools & Platforms",
     icon: "⚙",
-    skills: ["Git / GitHub", "Bitbucket", "Postman", "Figma", "Firebase", "Jira", "ClickUp", "ServiceNow", "FreshService", "IntelliJ IDEA", "VS Code", "Maven", "DBeaver", "i18n", "Laragon", "WinSCP", "Putty"],
+    skills: ["Git / GitHub", "Bitbucket", "Postman", "Figma", "Firebase", "Jira", "ClickUp", "ServiceNow", "FreshService", "IntelliJ IDEA", "VS Code", "Maven", "DBeaver", "DBGate", "Laragon", "WinSCP", "Putty"],
   },
   {
     title: "Testing & QA",

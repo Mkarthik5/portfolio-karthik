@@ -110,6 +110,7 @@ const WhatIDo = () => {
                 <div className="what-tags">jQuery</div>
                 <div className="what-tags">HTML5 / CSS3</div>
                 <div className="what-tags">Ajax</div>
+                <div className="what-tags">i18n</div>
               </div>
               <div className="what-arrow"></div>
             </div>
