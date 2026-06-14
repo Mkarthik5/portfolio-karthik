@@ -7,15 +7,15 @@ const groupedCategories = [
   },
   {
     title: "Backend & APIs",
-    skills: ["Java", "Spring Boot", "Spring MVC", "C# / ASP.NET Core", "Entity Framework Core", "Node.js", "Express.js", "PHP / Laravel", "REST", "SOAP", "GraphQL", "OAuth 2.0", "JWT", "Hibernate", "Flask", "Django"],
+    skills: ["Java", "Spring Boot", "Spring MVC", "C# / ASP.NET Core", "Entity Framework Core", "Node.js", "Express.js", "FastAPI", "PHP / Laravel", "REST", "SOAP", "GraphQL", "OAuth 2.0", "JWT", "MCP", "Hibernate", "Flask", "Django"],
   },
   {
     title: "Databases",
-    skills: ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"],
+    skills: ["PostgreSQL", "MySQL", "SQL Server", "MongoDB", "SQLite", "Embedded Databases", "Redis"],
   },
   {
     title: "Cloud & DevOps",
-    skills: ["AWS (EC2, S3, RDS, Lambda, IAM)", "Azure App Services", "Azure DevOps", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "AWS CodePipeline", "CI/CD"],
+    skills: ["AWS (EC2, S3, RDS, Lambda, IAM, CloudFormation)", "Azure App Services", "Azure DevOps", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "AWS CodePipeline", "CI/CD"],
   },
 ];
 
@@ -28,12 +28,12 @@ const flipCategories = [
   {
     title: "Tools & Platforms",
     icon: "⚙",
-    skills: ["Git / GitHub", "Bitbucket", "Postman", "Figma", "Firebase", "Jira", "ClickUp", "ServiceNow", "FreshService", "IntelliJ IDEA", "VS Code", "Maven", "DBeaver", "DBGate", "Laragon", "WinSCP", "Putty"],
+    skills: ["Git / GitHub", "Bitbucket", "Postman", "Figma", "Firebase", "Jira", "ClickUp", "ServiceNow", "FreshService", "IntelliJ IDEA", "VS Code", "Maven", "DBeaver", "DBGate", "Laragon", "WinSCP", "Putty", "Microsoft Teams", "Slack", "NetSuite", "n8n"],
   },
   {
     title: "Testing & QA",
     icon: "✓",
-    skills: ["JUnit", "NUnit", "Jest", "Unit Testing", "Code Review", "Pair Programming", "Bug Tracking"],
+    skills: ["JUnit", "NUnit", "Jest", "Unit Testing", "Integration Testing", "Debugging", "Performance Optimization", "Code Review", "Pair Programming", "Bug Tracking"],
   },
   {
     title: "Healthcare & Standards",
@@ -48,12 +48,17 @@ const flipCategories = [
   {
     title: "AI & Modern Tools",
     icon: "✦",
-    skills: ["LLM Integration", "AI Agents", "GitHub Copilot", "ChatGPT", "Claude Sonnet", "Prompt Engineering", "Generative AI"],
+    skills: ["LLM Integration", "AI Agents", "RAG (Retrieval-Augmented Generation)", "Vector Embeddings", "GitHub Copilot", "ChatGPT", "Claude Sonnet", "Prompt Engineering", "Generative AI", "MCP"],
   },
   {
-    title: "Architecture & Practices",
+    title: "Architecture & Software Engineering",
     icon: "◈",
-    skills: ["Microservices", "System Design", "OOP", "SOLID Principles", "Design Patterns", "Agile / Scrum", "Multi-tenant Architecture"],
+    skills: ["Microservices", "Distributed Systems", "Event-Driven Architecture", "System Design", "Design Patterns", "SOLID Principles", "OOP", "Multi-Tenant Architecture", "Scalability", "ERP Integrations"],
+  },
+  {
+    title: "DevOps & Practices",
+    icon: "⬡",
+    skills: ["DevOps", "CI/CD Pipelines", "Agile", "Scrum", "Code Review", "Pair Programming", "Version Control", "Systems Integration", "Automation", "API Gateway"],
   },
 ];
 

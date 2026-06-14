@@ -6,16 +6,15 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer and Software Developer with 3+ years of professional experience designing, building,
-          and supporting scalable web applications across enterprise platforms, healthcare systems, and e-commerce
-          solutions. Strong backend foundation in Java, Spring Boot, C#, ASP.NET Core, PHP, Laravel, and Node.js,
-          with modern frontend expertise in React and TypeScript. Proven experience building microservices, REST,
-          SOAP, and GraphQL APIs, LLM-powered AI agent integrations, event-driven automation, payment processing,
-          and inventory management across high-traffic, multi-tenant applications. Hands-on with AWS and Azure
-          cloud deployments, DevOps CI/CD pipelines, HIPAA-aligned security with OAuth 2.0 and JWT, and
-          HL7/FHIR healthcare standards. I hold a Master of Science in Computer Science from Rowan University
-          and thrive in Agile, cross-functional teams delivering features across the full software development
-          lifecycle.
+          Full Stack Developer and Software Engineer with 4+ years of experience designing, developing, and
+          supporting scalable enterprise applications across e-commerce, healthcare, research, and SaaS platforms,
+          leveraging Java, Spring Boot, C#, ASP.NET Core, React, TypeScript, Python, and Node.js. Proven expertise
+          building Microservices, Distributed Systems, REST/SOAP/GraphQL APIs, Event-Driven Architectures, ERP
+          Integrations, and AI-powered applications including LLM-based AI Agents, RAG pipelines, Prompt
+          Engineering, and workflow automation, delivering high-performance solutions for thousands of users.
+          Hands-on with AWS, Azure, Docker, MongoDB, MySQL, PostgreSQL, CI/CD Pipelines, Unit Testing, System
+          Design, and Cloud-Native Development, collaborating in Agile environments to deliver secure, scalable,
+          and production-ready software solutions.
         </p>
       </div>
     </div>

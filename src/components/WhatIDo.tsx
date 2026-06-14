@@ -138,14 +138,15 @@ const WhatIDo = () => {
               <h4>Scalable Services & Integrations</h4>
               <p>
                 Designing and maintaining REST, SOAP, and GraphQL APIs and scalable microservices
-                using Java, Spring Boot, C# ASP.NET Core, PHP, and Node.js, with hands-on
-                experience in cloud deployments, HIPAA security, OAuth 2.0, JWT, and
-                event-driven architecture.
+                using Java, Spring Boot, C# ASP.NET Core, Python, FastAPI, PHP, and Node.js,
+                with hands-on experience in cloud deployments, HIPAA security, OAuth 2.0, JWT,
+                and event-driven architecture.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Java / Spring Boot</div>
                 <div className="what-tags">C# / ASP.NET Core</div>
+                <div className="what-tags">Python / FastAPI</div>
                 <div className="what-tags">PHP / Laravel</div>
                 <div className="what-tags">Node.js / Express.js</div>
                 <div className="what-tags">REST / SOAP / GraphQL</div>

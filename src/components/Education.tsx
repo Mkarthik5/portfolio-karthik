@@ -66,8 +66,8 @@ const Education = () => {
               <h4>Institute of Aeronautical Engineering</h4>
               <p>GPA: 3.23 / 4.0 &nbsp;|&nbsp; 2018 – 2022</p>
               <p style={{ marginTop: "8px" }}>
-                Data Structures, Software Engineering, Web Technologies,
-                Cloud Application Development, E-Commerce
+                Data Structures, E-Commerce, Web Technologies,
+                Cloud Application Development
               </p>
             </div>
             <WorkImage image="/images/Iare_logo.webp" alt="Institute of Aeronautical Engineering" />
@@ -84,7 +84,7 @@ const Education = () => {
               <h4>Rowan University</h4>
               <p>GPA: 3.63 / 4.0 &nbsp;|&nbsp; 2022 – 2024</p>
               <p style={{ marginTop: "8px" }}>
-                Advanced Algorithms, Advanced Database, Network Security,
+                Advanced Design & Algorithms, Advanced Database, Network Security,
                 Functional Programming
               </p>
             </div>

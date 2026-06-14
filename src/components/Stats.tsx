@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import "./styles/Stats.css";
 
 const stats = [
-  { value: 3, suffix: "+", label: "Years Experience" },
+  { value: 4, suffix: "+", label: "Years Experience" },
   { value: 350, suffix: "K+", label: "Users Served" },
   { value: 30, suffix: "%", label: "Effort Reduced" },
   { value: 35, suffix: "%", label: "Faster Resolution" },
