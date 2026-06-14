@@ -41,7 +41,7 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Graduate Research Assistant</h4>
+                <h4>Research Collaborator</h4>
                 <a className="career-company" href="https://www.linkedin.com/school/rowanuniversity/" target="_blank" data-cursor="disable">
                   <img src="/images/rowan_logo.png" alt="Rowan University" className="company-logo" />
                   <h5>Rowan University, USA</h5>
